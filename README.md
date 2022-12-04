@@ -20,3 +20,7 @@ HTML5 e CSS3 parte 4 avançando no CSS
 ## Segunda Parte do Site
 
 ![imagem2](https://github.com/victorsantanna/Programa_ONE-Oracle-Next-Education/blob/6d27ed11579f165d653b908a2de3032279864a28/Captura%20da%20Web_30-11-2022_21491_127.0.0.1.jpeg)
+
+## Terceira Parte do Site
+
+![imagem3](https://github.com/victorsantanna/Programa_ONE-Oracle-Next-Education/blob/main/Captura%20da%20Web_4-12-2022_195249_127.0.0.1.jpeg)
